@@ -1,4 +1,4 @@
 # divyanshi-demo
 This is my first Git Repository.
 <br>
-Author-Divyanshi Srivastava
+Author-Divyanshi Srivastava (BBAU)
