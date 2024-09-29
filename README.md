@@ -1,3 +1,4 @@
 # divyanshi-demo
 This is my first Git Repository.
-Author-Divyanshi Srivastava
+<br>
+Author-<h2>Divyanshi Srivastava</h2>
